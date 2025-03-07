@@ -882,7 +882,7 @@ body {
 
 .footer_rightbox {
   display: flex;
-  /* gap: 3.3rem; */
+   gap: 3.3rem; 
 }
 
 @media screen and (max-width: 930px) {
